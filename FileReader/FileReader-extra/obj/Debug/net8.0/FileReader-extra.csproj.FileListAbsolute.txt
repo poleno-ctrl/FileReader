@@ -1,0 +1,14 @@
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\bin\Debug\net8.0\FileReader-extra.exe
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\bin\Debug\net8.0\FileReader-extra.deps.json
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\bin\Debug\net8.0\FileReader-extra.runtimeconfig.json
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\bin\Debug\net8.0\FileReader-extra.dll
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\bin\Debug\net8.0\FileReader-extra.pdb
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\FileReader-extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\FileReader-extra.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\FileReader-extra.AssemblyInfo.cs
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\FileReader-extra.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\FileReader-extra.dll
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\refint\FileReader-extra.dll
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\FileReader-extra.pdb
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\FileReader-extra.genruntimeconfig.cache
+C:\Users\nikit\source\repos\Solution\FileReader\FileReader-extra\obj\Debug\net8.0\ref\FileReader-extra.dll

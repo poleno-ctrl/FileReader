@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileReader-extra/1.0.0": {
+        "runtime": {
+          "FileReader-extra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileReader-extra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
